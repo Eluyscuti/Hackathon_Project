@@ -1,4 +1,4 @@
-#website builder
+"""#website builder
 from flask import Flask
 from PIL import image
 
@@ -9,4 +9,4 @@ return 'Note: this content dependent on the lack of change of current climate po
 image = Image.fromarray(pixels)
 
 if fire ==’main’:
-    app.run(debug=True)
+    app.run(debug=True)"""

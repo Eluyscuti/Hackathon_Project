@@ -66,3 +66,4 @@ def make_risk_index(lat, long, sampleSquareSize):
         print("no non-ocean pixels found")
     
 print(make_risk_index(36, -80, 10))
+
